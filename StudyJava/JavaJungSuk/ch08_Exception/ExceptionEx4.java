@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx4 {
 	public static void main(String args[]) {
 			System.out.println(1);			

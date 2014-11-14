@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx10 {
 	public static void main(String args[]) { // 0으로 나눠서 ArithmeticException을 발생시킨다.	
 		System.out.println(1);			

@@ -1,3 +1,4 @@
+package ch08_Exception;
 class NewExceptionTest {
 	public static void main(String args[]) {
 		try {

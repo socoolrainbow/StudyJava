@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx20 {
 	public static void main(String[] args) {
 		try  {

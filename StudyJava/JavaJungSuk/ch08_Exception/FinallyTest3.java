@@ -1,3 +1,4 @@
+package ch08_Exception;
 class FinallyTest3 {
 	public static void main(String args[]) {
 		// method1()은 static메서드이므로 인스턴스 생성없이 직접 호출이 가능하다.

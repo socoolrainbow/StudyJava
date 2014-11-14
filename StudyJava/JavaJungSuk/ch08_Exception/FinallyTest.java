@@ -1,3 +1,4 @@
+package ch08_Exception;
 class FinallyTest {
 	public static void main(String args[]) {
 		try {

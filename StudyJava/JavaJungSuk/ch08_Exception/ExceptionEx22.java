@@ -1,3 +1,4 @@
+package ch08_Exception;
 import java.io.*;
 
 class ExceptionEx22 {

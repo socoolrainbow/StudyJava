@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx3 {
 	public static void main(String args[]) {
 		int number = 100;

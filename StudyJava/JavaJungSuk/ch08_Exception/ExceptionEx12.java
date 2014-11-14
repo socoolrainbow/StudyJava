@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx12 {
 	public static void main(String args[]) {
 		System.out.println(1);		// 참조변수 ae를 통해, 생성된 ArithmeticException인스턴스에 접근할 수 있다.	

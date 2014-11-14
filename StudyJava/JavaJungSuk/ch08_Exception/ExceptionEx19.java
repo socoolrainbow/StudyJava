@@ -1,3 +1,4 @@
+package ch08_Exception;
 class ExceptionEx19 {
 	public static void main(String[] args) {
 		method1(); 	  // 같은 클래스내의 static멤버이므로 객체생성없이 직접 호출가능.
