@@ -1,4 +1,4 @@
-package chapter7;
+package chapter7_ArryCollection;
 
 import java.util.Date;
 
